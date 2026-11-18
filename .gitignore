@@ -1,0 +1,5 @@
+.venv/
+venv/
+__pycache__/
+manuscripts.db
+manuscripts.db-*
